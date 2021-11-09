@@ -1,11 +1,13 @@
 #pragma once
 #include <string>
+#include <iostream>
 #include <fstream>
 using namespace std;
 
-class XOR{
-private:;	
+
+class Encryptage{
+private:;
 public:
-	string EncryptageXor(string);	
+	string Cryptage();
 };
 
